@@ -1,0 +1,6 @@
+{
+  "name": "Actitud Fuerte",
+  "description": "App de gestión para entrenadores personales en sala de musculación: registro de clientes, ficha técnica, control de asistencia, cobros, medidas corporales y análisis de progreso con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

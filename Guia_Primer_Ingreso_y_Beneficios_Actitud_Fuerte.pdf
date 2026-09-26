@@ -1,0 +1,771 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >>
+endobj
+7 0 obj
+<< /Length 3285 >>
+stream
+% Fondo Oscuro Deportivo
+        0.05 0.07 0.05 rg
+        0 0 792 612 re f
+        
+        % Barra de Acento Superior Verde Lima
+        0.8 1.0 0.0 rg
+        0 596 792 16 re f
+        
+        % Marco geométrico decorativo
+        0.12 0.18 0.12 rg
+        40 40 712 532 re s
+        
+        % Badge Superior
+        0.15 0.25 0.12 rg
+        260 510 272 32 re f
+        0.8 1.0 0.0 rg
+        260 510 272 32 re S
+        
+        BT
+        /F2 13 Tf
+        0.8 1.0 0.0 rg
+        286 522 Td
+        (PLATAFORMA OFICIAL ACTITUD FUERTE) Tj
+        ET
+        
+        % Titulo Principal
+        BT
+        /F2 36 Tf
+        1 1 1 rg
+        120 440 Td
+        (GUIA DE PRIMER INGRESO & BENEFICIOS) Tj
+        ET
+        
+        % Subtitulo
+        BT
+        /F2 18 Tf
+        0.8 1.0 0.0 rg
+        165 405 Td
+        (Manual Maestro de Induccion para Nuevos Atletas y Miembros) Tj
+        ET
+        
+        % Linea divisoria
+        0.8 1.0 0.0 rg
+        1.5 w
+        120 380 m 672 380 l S
+        
+        % 3 Pilares destacados en la portada
+        % Tarjeta 1
+        0.08 0.12 0.08 rg
+        90 200 185 150 re f
+        0.2 0.3 0.2 rg
+        90 200 185 150 re S
+        0.8 1.0 0.0 rg
+        90 338 185 12 re f
+        BT
+        /F2 14 Tf
+        1 1 1 rg
+        105 310 Td
+        (1. ACCESO AGIL) Tj
+        /F1 10 Tf
+        0.85 0.85 0.85 rg
+        105 285 Td
+        (Ingreso rapido con tu ID) Tj
+        105 270 Td
+        (de Atleta oficial o correo.) Tj
+        105 255 Td
+        (Perfil unico y carnet) Tj
+        105 240 Td
+        (digital inteligente.) Tj
+        ET
+        
+        % Tarjeta 2
+        0.08 0.12 0.08 rg
+        303 200 185 150 re f
+        0.2 0.3 0.2 rg
+        303 200 185 150 re S
+        0.22 0.74 0.97 rg
+        303 338 185 12 re f
+        BT
+        /F2 14 Tf
+        1 1 1 rg
+        318 310 Td
+        (2. ALTO RENDIMIENTO) Tj
+        /F1 10 Tf
+        0.85 0.85 0.85 rg
+        318 285 Td
+        (Rutinas personalizadas,) Tj
+        318 270 Td
+        (historial de cargas, pesos) Tj
+        318 255 Td
+        (y progresion muscular con) Tj
+        318 240 Td
+        (graficos avanzados.) Tj
+        ET
+        
+        % Tarjeta 3
+        0.08 0.12 0.08 rg
+        516 200 185 150 re f
+        0.2 0.3 0.2 rg
+        516 200 185 150 re S
+        0.96 0.62 0.07 rg
+        516 338 185 12 re f
+        BT
+        /F2 14 Tf
+        1 1 1 rg
+        531 310 Td
+        (3. COMUNIDAD & COACH) Tj
+        /F1 10 Tf
+        0.85 0.85 0.85 rg
+        531 285 Td
+        (Canal oficial con Alex Gomez,) Tj
+        531 270 Td
+        (notas de voz, acuse de) Tj
+        531 255 Td
+        (fuerza y muro social) Tj
+        531 240 Td
+        (exclusivo de atletas.) Tj
+        ET
+        
+        % Pie de Portada
+        BT
+        /F2 12 Tf
+        0.8 1.0 0.0 rg
+        90 120 Td
+        (ALEX GOMEZ  |  CEO & HEAD COACH ACTITUD FUERTE) Tj
+        /F1 10 Tf
+        0.65 0.65 0.65 rg
+        90 102 Td
+        (Sistema Integral de Gestion Deportiva & Entrenamiento Cientifico  -  Version Oficial) Tj
+        ET
+        
+        % Frase inspiradora
+        BT
+        /F3 11 Tf
+        0.8 1.0 0.0 rg
+        90 65 Td
+        ("La disciplina no se negocia. Cada entrenamiento cuenta para tu transformacion.") Tj
+        ET
+endstream
+endobj
+8 0 obj
+<< /Length 4379 >>
+stream
+0.05 0.07 0.05 rg
+        0 0 792 612 re f
+        0.8 1.0 0.0 rg
+        0 596 792 16 re f
+        
+        % Titulo de Seccion
+        BT
+        /F2 24 Tf
+        1 1 1 rg
+        60 540 Td
+        (COMO INGRESAR AL SISTEMA POR PRIMERA VEZ) Tj
+        /F1 12 Tf
+        0.8 1.0 0.0 rg
+        60 520 Td
+        (Guia paso a paso para el alta, acceso y activacion de tu cuenta) Tj
+        ET
+        
+        0.8 1.0 0.0 rg
+        1 w
+        60 505 m 732 505 l S
+        
+        % Paso 1
+        0.08 0.12 0.08 rg
+        60 380 320 105 re f
+        0.2 0.3 0.2 rg
+        60 380 320 105 re S
+        0.8 1.0 0.0 rg
+        60 475 320 10 re f
+        BT
+        /F2 13 Tf
+        0.8 1.0 0.0 rg
+        75 455 Td
+        (PASO 1: TU ID DE ACCESO OFICIAL) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        75 435 Td
+        (- Tu entrenador o el administrador registrara tu ficha inicial.) Tj
+        75 420 Td
+        (- Recibiras tu ID de Atleta unico (ejemplo: ACT-7001) o podras) Tj
+        75 405 Td
+        (  utilizar el correo electronico proporcionado al inscribirte.) Tj
+        75 390 Td
+        (- Este codigo garantiza tu registro unico en la base de datos.) Tj
+        ET
+        
+        % Paso 2
+        0.08 0.12 0.08 rg
+        412 380 320 105 re f
+        0.2 0.3 0.2 rg
+        412 380 320 105 re S
+        0.22 0.74 0.97 rg
+        412 475 320 10 re f
+        BT
+        /F2 13 Tf
+        0.22 0.74 0.97 rg
+        427 455 Td
+        (PASO 2: INICIO DE SESION SEGURO) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        427 435 Td
+        (- Abre la aplicacion Actitud Fuerte en tu dispositivo.) Tj
+        427 420 Td
+        (- Escribe tu ID o Correo en la pantalla de bienvenida.) Tj
+        427 405 Td
+        (- El sistema autenticara instantaneamente tu membresia) Tj
+        427 390 Td
+        (  y te dara la bienvenida a tu panel personalizado.) Tj
+        ET
+        
+        % Paso 3
+        0.08 0.12 0.08 rg
+        60 250 320 110 re f
+        0.2 0.3 0.2 rg
+        60 250 320 110 re S
+        0.96 0.62 0.07 rg
+        60 350 320 10 re f
+        BT
+        /F2 13 Tf
+        0.96 0.62 0.07 rg
+        75 330 Td
+        (PASO 3: PERSONALIZACION DE PERFIL) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        75 310 Td
+        (- Ve a la seccion 'Mi Perfil' para personalizar tu cuenta.) Tj
+        75 295 Td
+        (- Sube tu foto de perfil utilizando el recortador circular.) Tj
+        75 280 Td
+        (- Redacta tu Biografia Deportiva oficial (hasta 150 caracteres)) Tj
+        75 265 Td
+        (  que te representara en el Directorio General de Atletas.) Tj
+        ET
+        
+        % Paso 4
+        0.08 0.12 0.08 rg
+        412 250 320 110 re f
+        0.2 0.3 0.2 rg
+        412 250 320 110 re S
+        0.65 0.33 0.96 rg
+        412 350 320 10 re f
+        BT
+        /F2 13 Tf
+        0.65 0.33 0.96 rg
+        427 330 Td
+        (PASO 4: ACTIVACION DE CARNET DIGITAL) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        427 310 Td
+        (- Toca el icono de credencial para abrir tu Carnet Digital.) Tj
+        427 295 Td
+        (- Muestra tu codigo QR para registrar asistencias al gimnasio.) Tj
+        427 280 Td
+        (- Verifica la vigencia de tu plan, tu rango y nivel deportivo.) Tj
+        427 265 Td
+        (- Listo: ya formas parte activa de la comunidad Actitud Fuerte.) Tj
+        ET
+        
+        % Recuadro Destacado de Soporte
+        0.1 0.15 0.1 rg
+        60 85 672 140 re f
+        0.8 1.0 0.0 rg
+        60 85 672 140 re S
+        BT
+        /F2 12 Tf
+        0.8 1.0 0.0 rg
+        80 200 Td
+        (CONSEJO DE SEGURIDAD & COMPROMISO INICIAL:) Tj
+        /F1 10 Tf
+        1 1 1 rg
+        80 180 Td
+        (1. Tu ID es personal e intransferible. Te permite identificarte en torneos, entrenamientos y pesajes.) Tj
+        80 162 Td
+        (2. Si tienes dudas con tus credenciales, comunicate con el Coach Alex Gomez o administracion.) Tj
+        80 144 Td
+        (3. Mantener tu foto actualizada permite al equipo registrar tus asistencias de manera inmediata.) Tj
+        80 126 Td
+        (4. Ingresa diariamente para enterarte de comunicados de horarios especiales y desafios semanales.) Tj
+        ET
+        
+        % Footer
+        BT
+        /F1 9 Tf
+        0.5 0.5 0.5 rg
+        60 30 Td
+        (Actitud Fuerte  |  Guia de Induccion Oficial  |  Pagina 2 de 5) Tj
+        ET
+endstream
+endobj
+9 0 obj
+<< /Length 4554 >>
+stream
+0.05 0.07 0.05 rg
+        0 0 792 612 re f
+        0.8 1.0 0.0 rg
+        0 596 792 16 re f
+        
+        BT
+        /F2 24 Tf
+        1 1 1 rg
+        60 540 Td
+        (BENEFICIOS DE ENTRENAMIENTO & PROGRESO TECNICO) Tj
+        /F1 12 Tf
+        0.8 1.0 0.0 rg
+        60 520 Td
+        (Ciencia, tecnologia y seguimiento deportivo al servicio de tu desarrollo fisico) Tj
+        ET
+        
+        0.8 1.0 0.0 rg
+        1 w
+        60 505 m 732 505 l S
+        
+        % Beneficio 1
+        0.08 0.12 0.08 rg
+        60 340 320 145 re f
+        0.2 0.3 0.2 rg
+        60 340 320 145 re S
+        0.8 1.0 0.0 rg
+        60 475 320 10 re f
+        BT
+        /F2 13 Tf
+        0.8 1.0 0.0 rg
+        75 455 Td
+        (A. BIBLIOTECA MAESTRA DE EJERCICIOS) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        75 435 Td
+        (- Mas de 80 ejercicios profesionales organizados por) Tj
+        75 420 Td
+        (  grupos musculares: Pecho, Espalda, Piernas, Hombros,) Tj
+        75 405 Td
+        (  Brazos, Core y Acondicionamiento.) Tj
+        75 390 Td
+        (- Parametros tecnicos de series, repeticiones recomendadas,) Tj
+        75 375 Td
+        (  RPE e intensidades para ejecutar con biomecanica pulcra.) Tj
+        75 360 Td
+        (- Rutinas asignadas semanalmente para progresar sin estancarte.) Tj
+        ET
+        
+        % Beneficio 2
+        0.08 0.12 0.08 rg
+        412 340 320 145 re f
+        0.2 0.3 0.2 rg
+        412 340 320 145 re S
+        0.22 0.74 0.97 rg
+        412 475 320 10 re f
+        BT
+        /F2 13 Tf
+        0.22 0.74 0.97 rg
+        427 455 Td
+        (B. REGISTRO DE CARGAS & PESOS) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        427 435 Td
+        (- Bitacora digital de cada sesion de levantamiento.) Tj
+        427 420 Td
+        (- Registra kilos levantados, repeticiones efectivas y) Tj
+        427 405 Td
+        (  calculo automatico de tonelaje acumulado.) Tj
+        427 390 Td
+        (- Graficos interactivos de progresion de fuerza para) Tj
+        427 375 Td
+        (  comprobar que cada semana eres mas fuerte que la anterior.) Tj
+        427 360 Td
+        (- Superacion de registros personales (PR) documentada.) Tj
+        ET
+        
+        % Beneficio 3
+        0.08 0.12 0.08 rg
+        60 165 320 155 re f
+        0.2 0.3 0.2 rg
+        60 165 320 155 re S
+        0.96 0.62 0.07 rg
+        60 310 320 10 re f
+        BT
+        /F2 13 Tf
+        0.96 0.62 0.07 rg
+        75 290 Td
+        (C. CONTROL DE MEDIDAS & COMPOSICION) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        75 270 Td
+        (- Modulo de evaluacion antropometrica periodica.) Tj
+        75 255 Td
+        (- Historial de peso corporal, porcentaje de grasa estimado,) Tj
+        75 240 Td
+        (  masa muscular y perimetro de brazos, pecho, cintura y muslos.) Tj
+        75 225 Td
+        (- Graficas de tendencia que respaldan tu esfuerzo con) Tj
+        75 210 Td
+        (  datos reales y medibles en el tiempo.) Tj
+        75 195 Td
+        (- Evaluaciones personalizadas por el equipo tecnico.) Tj
+        ET
+        
+        % Beneficio 4
+        0.08 0.12 0.08 rg
+        412 165 320 155 re f
+        0.2 0.3 0.2 rg
+        412 165 320 155 re S
+        0.65 0.33 0.96 rg
+        412 310 320 10 re f
+        BT
+        /F2 13 Tf
+        0.65 0.33 0.96 rg
+        427 290 Td
+        (D. ASISTENCIAS & CARNET DIGITAL QR) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        427 270 Td
+        (- Tu credencial inteligente siempre disponible en tu celular.) Tj
+        427 255 Td
+        (- Registro de asistencias con escaneo rapido.) Tj
+        427 240 Td
+        (- Contador de dias consecutivos de entrenamiento para) Tj
+        427 225 Td
+        (  fomentar la disciplina y la consistencia deportiva.) Tj
+        427 210 Td
+        (- Estatus operativo en verde que certifica tu membrecia) Tj
+        427 195 Td
+        (  activa y libre acceso a las instalaciones.) Tj
+        ET
+        
+        % Recuadro inferior
+        BT
+        /F2 11 Tf
+        0.8 1.0 0.0 rg
+        60 115 Td
+        (BENEFICIO CLAVE: Transparencia total de tus avances fisicos y metricas de rendimiento en un solo lugar.) Tj
+        /F3 9.5 Tf
+        0.7 0.7 0.7 rg
+        60 98 Td
+        (Lo que no se mide, no se puede mejorar. Actitud Fuerte te brinda datos cientificos para evolucionar constantemente.) Tj
+        ET
+        
+        % Footer
+        BT
+        /F1 9 Tf
+        0.5 0.5 0.5 rg
+        60 30 Td
+        (Actitud Fuerte  |  Guia de Induccion Oficial  |  Pagina 3 de 5) Tj
+        ET
+endstream
+endobj
+10 0 obj
+<< /Length 4248 >>
+stream
+0.05 0.07 0.05 rg
+        0 0 792 612 re f
+        0.8 1.0 0.0 rg
+        0 596 792 16 f
+        
+        BT
+        /F2 24 Tf
+        1 1 1 rg
+        60 540 Td
+        (BENEFICIOS DE COMUNIDAD, MOTIVACION & COMUNICACION) Tj
+        /F1 12 Tf
+        0.8 1.0 0.0 rg
+        60 520 Td
+        (Una hermandad de atletas unidos por la misma pasion y el liderazgo del Coach) Tj
+        ET
+        
+        0.8 1.0 0.0 rg
+        1 w
+        60 505 m 732 505 l S
+        
+        % Beneficio 5: Comunicados Oficiales
+        0.08 0.12 0.08 rg
+        60 340 320 145 re f
+        0.2 0.3 0.2 rg
+        60 340 320 145 re S
+        0.8 1.0 0.0 rg
+        60 475 320 10 re f
+        BT
+        /F2 13 Tf
+        0.8 1.0 0.0 rg
+        75 455 Td
+        (E. CANAL DIRECTO DEL COACH) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        75 435 Td
+        (- Comunicados oficiales fijados en tu pantalla de perfil.) Tj
+        75 420 Td
+        (- Mensajes de voz directos del CEO Alex Gomez con) Tj
+        75 405 Td
+        (  indicaciones tecnicas y motivacionales antes del entreno.) Tj
+        75 390 Td
+        (- Fotografias y documentos adjuntos de planificacion.) Tj
+        75 375 Td
+        (- Boton oficial 'Acuse de Fuerza' para confirmar que recibiste) Tj
+        75 360 Td
+        (  la orden y mantenerte alineado al equipo.) Tj
+        ET
+        
+        % Beneficio 6: Muro Social
+        0.08 0.12 0.08 rg
+        412 340 320 145 re f
+        0.2 0.3 0.2 rg
+        412 340 320 145 re S
+        0.22 0.74 0.97 rg
+        412 475 320 10 re f
+        BT
+        /F2 13 Tf
+        0.22 0.74 0.97 rg
+        427 455 Td
+        (F. MURO SOCIAL DE ATLETAS) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        427 435 Td
+        (- Comparte tus logros diarios, fotos de entrenamientos y marcas.) Tj
+        427 420 Td
+        (- Reacciona con fuego y fuerza a los avances de tus companeros.) Tj
+        427 405 Td
+        (- Comenta en publicaciones para brindar apoyo mutuo.) Tj
+        427 390 Td
+        (- Clasificacion por categorias: Récords, Motivacion y Comunidad.) Tj
+        427 375 Td
+        (- Un entorno libre de distracciones, 100% enfocado en) Tj
+        427 360 Td
+        (  el alto rendimiento y la camaraderia.) Tj
+        ET
+        
+        % Beneficio 7: Directorio de Atletas
+        0.08 0.12 0.08 rg
+        60 165 320 155 re f
+        0.2 0.3 0.2 rg
+        60 165 320 155 re S
+        0.96 0.62 0.07 rg
+        60 310 320 10 re f
+        BT
+        /F2 13 Tf
+        0.96 0.62 0.07 rg
+        75 290 Td
+        (G. DIRECTORIO CON FICHAS TECNICAS) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        75 270 Td
+        (- Fichas tecnicas estilo banner deportivo de alta gama.) Tj
+        75 255 Td
+        (- Visualiza el perfil de otros companeros de equipo:) Tj
+        75 240 Td
+        (  su rango de fuerza, disciplina y biografia personal.) Tj
+        75 225 Td
+        (- Aprende de los atletas mas avanzados y encuentra) Tj
+        75 210 Td
+        (  companeros de entrenamiento de tu mismo nivel.) Tj
+        75 195 Td
+        (- Reconocimiento especial a atletas destacados.) Tj
+        ET
+        
+        % Beneficio 8: Centro de Notificaciones
+        0.08 0.12 0.08 rg
+        412 165 320 155 re f
+        0.2 0.3 0.2 rg
+        412 165 320 155 re S
+        0.65 0.33 0.96 rg
+        412 310 320 10 re f
+        BT
+        /F2 13 Tf
+        0.65 0.33 0.96 rg
+        427 290 Td
+        (H. CENTRO DE NOTIFICACIONES INTELIGENTE) Tj
+        /F1 9.5 Tf
+        0.9 0.9 0.9 rg
+        427 270 Td
+        (- Campana de notificaciones interactiva en el encabezado.) Tj
+        427 255 Td
+        (- Avisos administrativos de pagos, estado de mensualidad,) Tj
+        427 240 Td
+        (  y confirmacion de asistencias en tiempo real.) Tj
+        427 225 Td
+        (- Notificaciones sociales cuando alguien te apoya en el feed.) Tj
+        427 210 Td
+        (- Redireccion directa: toca la notificacion y el sistema te lleva) Tj
+        427 195 Td
+        (  exactamente a la pantalla que necesitas consultar.) Tj
+        ET
+        
+        % Footer
+        BT
+        /F1 9 Tf
+        0.5 0.5 0.5 rg
+        60 30 Td
+        (Actitud Fuerte  |  Guia de Induccion Oficial  |  Pagina 4 de 5) Tj
+        ET
+endstream
+endobj
+11 0 obj
+<< /Length 3165 >>
+stream
+0.05 0.07 0.05 rg
+        0 0 792 612 re f
+        0.8 1.0 0.0 rg
+        0 596 792 16 re f
+        
+        BT
+        /F2 24 Tf
+        1 1 1 rg
+        60 540 Td
+        (FILOSOFIA, REGLAS DE ORO & ATENCION AL ATLETA) Tj
+        /F1 12 Tf
+        0.8 1.0 0.0 rg
+        60 520 Td
+        (Los principios fundamentales que rigen a nuestra familia deportiva) Tj
+        ET
+        
+        0.8 1.0 0.0 rg
+        1 w
+        60 505 m 732 505 l S
+        
+        % Cuadro de Reglas de Oro
+        0.08 0.12 0.08 rg
+        60 270 672 215 re f
+        0.8 1.0 0.0 rg
+        60 270 672 215 re S
+        0.8 1.0 0.0 rg
+        60 475 672 10 re f
+        
+        BT
+        /F2 15 Tf
+        0.8 1.0 0.0 rg
+        80 450 Td
+        (LAS 5 REGLAS DE ORO DE ACTITUD FUERTE) Tj
+        
+        /F2 11 Tf
+        1 1 1 rg
+        80 420 Td
+        (1. PUNTUALIDAD & ASISTENCIA:) Tj
+        /F1 10 Tf
+        0.85 0.85 0.85 rg
+        260 420 Td
+        (Llega a tiempo y registra tu carnet al ingresar. La disciplina empieza por estar presente.) Tj
+        
+        /F2 11 Tf
+        1 1 1 rg
+        80 390 Td
+        (2. RESPETO AL EQUIPAMIENTO:) Tj
+        /F1 10 Tf
+        0.85 0.85 0.85 rg
+        260 390 Td
+        (Descarga tus barras, regresa mancuernas y cuida las instalaciones como tu propia casa.) Tj
+        
+        /F2 11 Tf
+        1 1 1 rg
+        80 360 Td
+        (3. CIENCIA & TECNICA PRIMERO:) Tj
+        /F1 10 Tf
+        0.85 0.85 0.85 rg
+        260 360 Td
+        (Prioriza el movimiento correcto antes de subir peso. Tu salud y longevidad muscular son clave.) Tj
+        
+        /F2 11 Tf
+        1 1 1 rg
+        80 330 Td
+        (4. CAMARADERIA & RESPETO:) Tj
+        /F1 10 Tf
+        0.85 0.85 0.85 rg
+        260 330 Td
+        (Apoya al companero que esta esforzandose. En Actitud Fuerte todos crecemos juntos.) Tj
+        
+        /F2 11 Tf
+        1 1 1 rg
+        80 300 Td
+        (5. REGISTRO CONSTANTE:) Tj
+        /F1 10 Tf
+        0.85 0.85 0.85 rg
+        260 300 Td
+        (Anota tus marcas en la app. La data objetiva es tu mejor aliada contra la desmotivacion.) Tj
+        ET
+        
+        % Mensaje Final del CEO
+        0.1 0.15 0.1 rg
+        60 110 672 135 re f
+        0.8 1.0 0.0 rg
+        60 110 672 135 re S
+        
+        BT
+        /F2 13 Tf
+        0.8 1.0 0.0 rg
+        80 220 Td
+        (MENSAJE DEL FUNDADOR & CEO ALEX GOMEZ) Tj
+        /F3 11 Tf
+        1 1 1 rg
+        80 195 Td
+        ("No buscamos atajos ni falsas promesas. Construimos fuerza real a traves del habito diario,) Tj
+        80 178 Td
+        ( la ciencia del entrenamiento y una actitud inquebrantable ante cualquier desafio.") Tj
+        /F2 11 Tf
+        0.8 1.0 0.0 rg
+        80 150 Td
+        (!Bienvenido a tu nueva casa de entrenamiento!  -  ACTITUD FUERTE) Tj
+        /F1 9.5 Tf
+        0.75 0.75 0.75 rg
+        80 128 Td
+        (Contacto Administrativo & Soporte: alexgcuicas@gmail.com  |  Plataforma Actitud Fuerte 2026) Tj
+        ET
+        
+        % Footer
+        BT
+        /F1 9 Tf
+        0.5 0.5 0.5 rg
+        60 30 Td
+        (Actitud Fuerte  |  Guia de Induccion Oficial  |  Pagina 5 de 5) Tj
+        ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources 6 0 R /Contents 7 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources 6 0 R /Contents 8 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources 6 0 R /Contents 9 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources 6 0 R /Contents 10 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources 6 0 R /Contents 11 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000144 00000 n 
+0000000241 00000 n 
+0000000343 00000 n 
+0000000448 00000 n 
+0000000511 00000 n 
+0000003848 00000 n 
+0000008279 00000 n 
+0000012885 00000 n 
+0000017186 00000 n 
+0000020404 00000 n 
+0000020509 00000 n 
+0000020614 00000 n 
+0000020719 00000 n 
+0000020825 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+20931
+%%EOF
