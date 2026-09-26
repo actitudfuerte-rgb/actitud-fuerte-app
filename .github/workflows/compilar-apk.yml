@@ -19,11 +19,11 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
-    - name: Dar permisos de ejecución a Gradle
-      run: chmod +x gradlew || true
+    - name: Instalar Gradle en la máquina virtual
+      uses: gradle/actions/setup-gradle@v3
 
-    - name: Compilar APK en modo Debug
-      run: ./gradlew assembleDebug --stacktrace
+    - name: Compilar APK directamente con Gradle instalado
+      run: gradle assembleDebug --stacktrace
 
     - name: Guardar y subir el archivo APK resultante
       uses: actions/upload-artifact@v4
