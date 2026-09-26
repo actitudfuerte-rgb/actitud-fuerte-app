@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Letter 'A' with inner triangle cut out -->
+    <path
+        android:fillColor="#C6F000"
+        android:fillType="evenOdd"
+        android:pathData="M 16,77 L 33,31 L 49.5,31 L 65.5,77 Z M 33,63 L 48.5,63 L 41.5,43 Z" />
+
+    <!-- Letter 'F' with slant matching the diagonal cut -->
+    <path
+        android:fillColor="#C6F000"
+        android:pathData="M 52.5,31 L 92,31 L 87.5,45 L 68,45 L 67.5,50 L 82,50 L 78,61 L 68.5,61 L 67,77 Z" />
+</vector>

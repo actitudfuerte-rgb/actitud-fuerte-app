@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510894384393",
+    "project_id": "actitud-fuerte-app",
+    "storage_bucket": "actitud-fuerte-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510894384393:android:53be9f70ac2c869c589fd8",
+        "android_client_info": {
+          "package_name": "com.aistudio.actitudfuerte.fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2O-Xqr8MeuGWuWaxI8kEcFBrYiNnOrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
