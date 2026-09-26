@@ -19,10 +19,12 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
-    - name: Instalar Gradle en la máquina virtual
+    - name: Configurar Gradle
       uses: gradle/actions/setup-gradle@v3
 
-    - name: Compilar APK directamente con Gradle instalado
+    - name: Compilar APK con Gradle
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || 'DUMMY_KEY' }}
       run: gradle assembleDebug --stacktrace
 
     - name: Guardar y subir el archivo APK resultante
